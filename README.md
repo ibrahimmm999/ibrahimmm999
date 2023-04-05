@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **ibrhmmm552@gmail.com**
+- 📫 How to reach me **18221140@std.stei.itb.ac.id** or **ibrhmmm552@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
