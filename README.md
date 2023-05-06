@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimmm999&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimmm999" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Android**
 
 - 📫 How to reach me **18221140@std.stei.itb.ac.id** **or** **ibrhmmm552@gmail.com**
 
